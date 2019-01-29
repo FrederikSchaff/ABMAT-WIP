@@ -1,0 +1,5 @@
+TARGET=lsd_gnu
+FUN=fun_ABMAT-WIP
+FUN_EXTRA=
+SWITCH_CC=-Og -ggdb3 -Wall -Wextra -Wpedantic
+SWITCH_CC_LNK=
